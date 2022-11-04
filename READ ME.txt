@@ -1,0 +1,11 @@
+This project is a knowledge based artificial intelligence that plays the classical minesweeper game to 
+the best of its ability using the knowledge of its past moves. Note that this AI is not optimal and
+includes an element of randomness to make moves when it is not aware of any safe moves. However, since 
+it uses knowledge, the further it progresses into the game the more likley it is to win. 
+
+The logic for the AI is implemented in the minesweeper.py file while the graphical interface for the
+game is provided in the runner.py file. (runner.py was provided by course owner)
+To properly run this project, run the runner.py file.
+This project is implemented as part of the CS50 Artificial Intelligence course, to know more about
+this project or view the distribution code that was provided to the author visit:
+https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/
